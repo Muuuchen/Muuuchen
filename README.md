@@ -28,17 +28,10 @@
   
 </p>
   
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="E:\Muuuchen\Muuuchen\images\108807949_p0.png"/>
 
   <a href="https://github.com/Muuuchen"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Muuuchen&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Muuuchen"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Muuuchen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
@@ -53,11 +46,4 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Muuuchen&repo=SCH_Model&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
   
 
-<p align="left">
-  <a href="https://github.com/Muuuchen?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-<p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
