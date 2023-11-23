@@ -1,5 +1,5 @@
   ## Hi 👋, I am **Muuuchen** 
-  an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+  A student ✨
 
 <div>
 <details>
