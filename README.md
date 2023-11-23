@@ -1,10 +1,4 @@
-
-
-<br/>
-
-<p>
-  
-## Hi 👋, I am **Muuuchen** 
+  ## Hi 👋, I am **Muuuchen** 
   an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
 <div>
@@ -17,11 +11,9 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **745754920@qq.com**
 
 </details>
   
